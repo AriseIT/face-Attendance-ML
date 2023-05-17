@@ -1,6 +1,4 @@
-# https://github.com/naemazam/Real-time-face-recognition-Using-Facenet/tree/main
-
-
+# keras Model: https://drive.google.com/file/d/1Cxzz3qXCYNDbWRgqYR2E7qH9y4CTR2EN/view?usp=share_link 
 
 import cv2 
 import mtcnn
